@@ -11,7 +11,7 @@ function Update () {
 		Application.LoadLevel("Menu");
 	}
 	
-	if(Sol.transform.position.y < 1340){
+	if(Sol.transform.position.y < 142){
 		Sol.transform.Translate(0,0.01,0);
 	}
 	

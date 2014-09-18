@@ -100,7 +100,7 @@ function ResetJoystick()
 	fingerDownPos = Vector2.zero;
 	
 	if ( touchPad )
-		gui.color.a = 0.025;	
+		gui.color.a = 0.0;	
 }
 
 function IsFingerDown() : boolean
@@ -158,7 +158,7 @@ function Update()
 				
 				if ( touchPad )
 				{
-					gui.color.a = 0.15;
+					gui.color.a = 0.0;
 					
 					lastFingerId = touch.fingerId;
 					fingerDownPos = touch.position;

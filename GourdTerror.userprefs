@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CNJoystick\Scripts\CNCameraFollow.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets (Mobile)\Scripts\FirstPersonControl.js">
     <Files>
-      <File FileName="Assets\CNJoystick\Scripts\CNCameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets (Mobile)\Scripts\FirstPersonControl.js" Line="19" Column="28" />
+      <File FileName="Assets\CNJoystick\Scripts\CNCameraFollow.cs" Line="8" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

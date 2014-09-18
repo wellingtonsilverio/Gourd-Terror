@@ -1,19 +1,29 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{C5799B92-8C13-6F64-1EFA-54293D0A3AE9}") = "GourdTerror", "Assembly-CSharp-vs.csproj", "{BDEB3396-7AE7-AFD7-0FBE-0E3DF067700C}"
+EndProject
+Project("{C5799B92-8C13-6F64-1EFA-54293D0A3AE9}") = "GourdTerror", "Assembly-CSharp-Editor-vs.csproj", "{9D5FFB65-6F5E-8F77-61A2-8902CED7DE87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{BDEB3396-7AE7-AFD7-0FBE-0E3DF067700C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEB3396-7AE7-AFD7-0FBE-0E3DF067700C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEB3396-7AE7-AFD7-0FBE-0E3DF067700C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEB3396-7AE7-AFD7-0FBE-0E3DF067700C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D5FFB65-6F5E-8F77-61A2-8902CED7DE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5FFB65-6F5E-8F77-61A2-8902CED7DE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5FFB65-6F5E-8F77-61A2-8902CED7DE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5FFB65-6F5E-8F77-61A2-8902CED7DE87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-					GlobalSection(MonoDevelopProperties) = preSolution
+							GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp-Editor.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
